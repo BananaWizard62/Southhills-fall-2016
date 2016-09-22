@@ -1,0 +1,50 @@
+<html>
+<head>
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>Tim'z Wild Zoo</title>
+<!-- TemplateEndEditable -->
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<!-- TemplateBeginEditable name="head" -->
+<!-- TemplateEndEditable -->
+<link href="../zooLayout.css" rel="stylesheet" type="text/css">
+<meta name="description" content="Tim'z Wild Zoo specializes in unique and exotic display animals. Located in San Diego.">
+<meta name="keywords" content="zoo, tim'z, tim'z wild zoo, san diego">
+</head>
+<body bgcolor="#FFFFFF" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0">
+<!-- Save for Web Slices (zoo web.psd) -->
+<table width="1024" height="768" border="0" align="center" cellpadding="0" cellspacing="0" id="Table_01">
+	<tr>
+		<td colspan="2">
+			<img src="../images/zoo-web_01.jpg" width="1024" height="150" alt=""></td>
+	</tr>
+	<tr align="left" valign="top">
+		<td width="201" valign="top">
+			<img src="../images/zoo-web_02.jpg" alt="" width="201" height="618" usemap="#Map" border="0"></td>
+		<td width="823" bgcolor="#FFFFFF"><!-- TemplateBeginEditable name="Main Content" -->
+		  <table width="800" border="0" align="center" cellpadding="12">
+		    <tr>
+		      <td><h1>Heading One</h1></td>
+		      <td>&nbsp;</td>
+	        </tr>
+		    <tr>
+		      <td><h2>Heading Two</h2></td>
+		      <td>&nbsp;</td>
+	        </tr>
+		    <tr>
+		      <td><p><em>Paragraph style text</em></p></td>
+		      <td>&nbsp;</td>
+	        </tr>
+	    </table>
+		<!-- TemplateEndEditable --></td>
+	</tr>
+</table>
+<!-- End Save for Web Slices -->
+
+<map name="Map">
+  <area shape="rect" coords="25,89,182,140" href="../index.html">
+  <area shape="rect" coords="25,159,186,204" href="../learn.html">
+  <area shape="rect" coords="23,229,176,285" href="../visit.html">
+  <area shape="rect" coords="23,434,175,480" href="../membership.html">
+</map>
+</body>
+</html>

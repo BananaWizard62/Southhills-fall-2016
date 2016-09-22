@@ -1,0 +1,26 @@
+@charset "utf-8";
+h1 {
+	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+	font-size: 24px;
+	color: #FFF;
+}
+h3 {
+	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+	font-size: 18px;
+	color: #FFF;
+}
+p {
+	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+	color: #FFF;
+}
+
+body {
+	background-color: #000;
+	background-attachment: fixed;
+	background-image: url(Photoshop%20Stuff/images/Rocket%20LeagueBackground.png);
+	background-repeat: no-repeat;
+	background-position: center top;
+}
+a {
+	color: #FFF;
+}
